@@ -12,11 +12,3 @@ Predicting loan defaults using machine learning models.
 - **Files:** Data, Jupyter Notebook, Reports  
 
 More projects coming soon.  
-
-## How to Use  
-
-Clone the repository and navigate to the project folder:  
-
-```bash
-git clone https://github.com/costcappen/Data_Analysis_Portfolio.git
-cd Data_Analysis_Portfolio
