@@ -1,6 +1,6 @@
 # Credit Risk Analysis
-
 This project applies machine learning to analyze credit risk. It includes data preprocessing, model training, and evaluation.
+
 
 ## Files
 
@@ -11,10 +11,20 @@ This project applies machine learning to analyze credit risk. It includes data p
 - `Executive Summary Credit Risk Analysis.docx` - Summary report  
 - `Model Report Credit Risk Analysis.docx` - Model details  
 
+
+## Models Used
+
+- Logistic Regression  
+- Random Forest  
+- Gradient Boosting  
+- Neural Network  
+- Stacking Classifier
+
+
 ## How to Run
 
 Clone the repository and navigate to the project folder:
 
 ```bash
-git clone https://github.com/costcappen/Hire_me.git
-cd Hire_me/Credit_Risk_Analysis
+git clone https://github.com/costcappen/Data_Analysis_Portfolio.git
+cd Data_Analysis_Portfolio/Credit_Risk_Analysis
