@@ -1,4 +1,4 @@
-# hire me please you won't regret it(debatable)
+# Hire me please you won't regret it(debatable)
 
 ## Data Analysis Portfolio  
 
