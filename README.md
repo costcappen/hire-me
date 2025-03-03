@@ -1,6 +1,4 @@
-# Hire me please you won't regret it(debatable)
-
-## Data Analysis Portfolio  
+# Data Analysis Portfolio  
 
 This repository showcases various data analysis and machine learning projects. Each project includes data preprocessing, feature engineering, model training, and evaluation.  
 
