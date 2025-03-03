@@ -4,10 +4,13 @@ This project focuses on detecting fraudulent transactions using machine learning
 
 ## Files
 
-- `Project_2_Ty_Chen.ipynb` - Main Jupyter notebook for analysis and modeling  
-- `Project_2_Report_Ty_Chen.docx` - Detailed report of the project  
-- `Project_2_Ty_Chen.html` - HTML version of the analysis report  
+- `Predicting_Fraud.ipynb` - Main Jupyter notebook for analysis and modeling  
+- `Fraud_Predictions_Report.docx` - Detailed report of the project  
+- `fraud_predictions.csv` - Model predictions  
+- `transactions_holdout.csv` - Holdout dataset  
+- `transactions_train.csv` - Training dataset
 
+  
 ## Dataset
 
 The dataset consists of 125,000 entries with 27 numerical and categorical features. The target variable is `EVENT_LABEL`, which indicates whether an event is "legit" or "fraud". Missing values exist in several columns and are handled during preprocessing.
